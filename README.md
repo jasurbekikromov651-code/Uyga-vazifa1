@@ -3,3 +3,4 @@ men tayyorm
 # Uyga-vazifa2
 # Uyga-vazifa
 # Uyga-vazifa1
+# Uyga-vazifa2
